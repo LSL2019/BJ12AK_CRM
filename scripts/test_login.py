@@ -7,7 +7,7 @@ import pytest
 
 
 def get_data():
-    return [("13800001111", "123456"), ("13800001112", "0000")]
+    return [("13800001111", "123456")]
 
 
 class TestLogin(object):
